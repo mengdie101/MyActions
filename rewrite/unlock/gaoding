@@ -4,4 +4,4 @@
 ^https:\/\/www\.gaoding\.com\/api\/(structure\/company\/current|ccm\/editors\/risk_materials) url script-response-body https://raw.githubusercontent.com/BlackSpacee/Loon/main/Script/JavaScript/UnlockVip/Gaoding.js
 ^https:\/\/www\.gaoding\.com\/api\/v3\/oc\/v2\/delivery-pits\/ios-splash\/ url reject-dict
 [MITM]
-hostname = qiye.gaoding.com
+hostname = www.gaoding.com
